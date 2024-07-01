@@ -30,3 +30,9 @@ Firebase: autenticação, Banco de dados Firestore, filtros, Armazenamento com S
 WhatsApp: cadastro e autenticação, navegação por abas, toolbar customizada, edição de perfil, envio de mensagens, exibição de conversas e muito mais
 
 Link do curso: https://www.udemy.com/course/desenvolvimento-android-completo/
+
+1 - App
+
+Um app para sortear números aleatórios
+<p>
+<img src="img/1_app.jpeg" height = 400>
